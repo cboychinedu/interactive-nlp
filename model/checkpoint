@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/blackbox/PycharmProjects/MIT/transfer-learning-conv-ai/model/model.tflearn"
+all_model_checkpoint_paths: "/home/blackbox/PycharmProjects/MIT/transfer-learning-conv-ai/model/model.tflearn"
